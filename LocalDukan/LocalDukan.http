@@ -1,0 +1,6 @@
+@LocalDukan_HostAddress = http://localhost:5097
+
+GET {{LocalDukan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

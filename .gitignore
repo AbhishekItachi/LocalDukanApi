@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LocalDukan/bin/Debug/net9.0
+/.vs/LocalDukan
+/LocalDukan/obj
+/LocalDukan.Application/bin/Debug/net9.0
+/LocalDukan.Application/obj
+/LocalDukan.Domain/bin/Debug/net9.0
+/LocalDukan.Domain/obj
+/LocalDukan.Persistence/bin/Debug/net9.0
+/LocalDukan.Persistence/obj

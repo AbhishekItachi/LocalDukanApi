@@ -11,3 +11,7 @@
 /LocalDukan.Domain/obj
 /LocalDukan.Persistence/bin/Debug/net9.0
 /LocalDukan.Persistence/obj
+/.vs/ProjectEvaluation
+/obj
+/LocalDukan.Persistence/LocalDukan/obj
+/LocalDukan.Persistence/Migrations
